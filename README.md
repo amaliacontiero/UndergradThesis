@@ -3,7 +3,7 @@
 ### Current section:
 #### OSNIR Prediction based on the following ML Techniques:
 
-- [x] Linear Regression (/Machine%20Learning%20Techniques/Linear%20Regression/OSNIR_Linear_Regression.ipynb)
+- [x] [Linear Regression] (/Machine%20Learning%20Techniques/Linear%20Regression/OSNIR_Linear_Regression.ipynb)
 - [ ] Multivariate Polynomial Regression
 - [ ] Decision Tree
 - [ ] Random Forest
