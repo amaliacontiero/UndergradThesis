@@ -9,7 +9,7 @@
 - [ ] Random Forest
 - [ ] Support Vector Regression
 - [ ] k-Nearest Neighbors
-- [x] [Deep Neural Network](/Machine%20Learning%20Techniques/Neural%20Network/OSNIR_NN%20draft%20copy.ipynb)
+- [x] [Deep Neural Network](/Machine%20Learning%20Techniques/Neural%20Network/OSNIR_NeuralNetwork.ipynb)
 
 Up Next: Multivariate Polynomial Regression :robot:
 
