@@ -11,10 +11,10 @@
 - [x] [k-Nearest Neighbors](/Machine%20Learning%20Techniques/k-Nearest%20Neighbors/OSNIR_kNN.ipynb)
 - [x] [Deep Neural Network](/Machine%20Learning%20Techniques/Neural%20Network/OSNIR_NeuralNetwork.ipynb)
 
-Up Next: Plot optimization for comparison :robot:
+Up Next: Compare plots to paper :robot:
 
 To Do after all ML are complete:
 - [x] Code and markdown cleanup
 - [x] Final plots adjustments
-- [ ] All plots same height
+- [x] All plots same height (except kNN)
 - [ ] Compare plots to paper
