@@ -8,10 +8,10 @@
 - [x] [Decision Tree](/Machine%20Learning%20Techniques/Decision%20Tree/OSNIR_Decision_Tree.ipynb)
 - [x] [Random Forest](/Machine%20Learning%20Techniques/Random%20Forest/OSNIR_Random_Forest.ipynb)
 - [x] [Support Vector Regression](/Machine%20Learning%20Techniques/Support%20Vector%20Regression/OSNIR_SVR.ipynb)
-- [ ] k-Nearest Neighbors
+- [x] [k-Nearest Neighbors](/Machine%20Learning%20Techniques/k-Nearest%20Neighbors/OSNIR_kNN.ipynb)
 - [x] [Deep Neural Network](/Machine%20Learning%20Techniques/Neural%20Network/OSNIR_NeuralNetwork.ipynb)
 
-Up Next: k-Nearest Neighbors :robot:
+Up Next: Code and markdown cleanup :robot:
 
 To Do after all ML are complete:
 - [ ] Code and markdown cleanup
