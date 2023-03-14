@@ -9,12 +9,12 @@
 - [x] [Random Forest](/Machine%20Learning%20Techniques/Random%20Forest/OSNIR_Random_Forest.ipynb)
 - [x] [Support Vector Regression](/Machine%20Learning%20Techniques/Support%20Vector%20Regression/OSNIR_SVR.ipynb)
 - [x] [k-Nearest Neighbors](/Machine%20Learning%20Techniques/k-Nearest%20Neighbors/OSNIR_kNN.ipynb)
-- [x] [Deep Neural Network](/Machine%20Learning%20Techniques/Neural%20Network/OSNIR_NeuralNetwork.ipynb)
+- [x] [Deep Neural Network](/Machine%20Learning%20Techniques/Neural%20Network/OSNIR_Neural_Network.ipynb)
 
-Up Next: Compare plots to paper :robot:
+Up Next: What's Next? :robot:
 
 To Do after all ML are complete:
 - [x] Code and markdown cleanup
 - [x] Final plots adjustments
 - [x] All plots same height (except kNN)
-- [ ] Compare plots to paper
+- [x] Compare plots to paper
